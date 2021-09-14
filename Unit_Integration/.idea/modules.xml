@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Unit-Integration1/Unit-Integration1.iml" filepath="$PROJECT_DIR$/Unit-Integration1/Unit-Integration1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Unit-Integration3/Unit-Integration3.iml" filepath="$PROJECT_DIR$/Unit-Integration3/Unit-Integration3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Unit-integration2/Unit-integration2.iml" filepath="$PROJECT_DIR$/Unit-integration2/Unit-integration2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Unit_Integration.iml" filepath="$PROJECT_DIR$/.idea/Unit_Integration.iml" />
+    </modules>
+  </component>
+</project>
